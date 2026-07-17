@@ -1,0 +1,17 @@
+streamlit
+moviepy
+ffmpeg-python
+openai-whisper
+torch
+deep-translator
+gTTS
+pydub
+opencv-python-headless
+Pillow
+numpy
+pysrt
+imageio
+imageio-ffmpeg
+tqdm
+requests
+reportlab
